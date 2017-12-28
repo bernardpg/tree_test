@@ -9,7 +9,6 @@ TreeExample-Branches.txt
 #先定義再放入
 #####
 def main ():
-    print("suck_it")
     from queue import Queue
     import os
     q=Queue()
